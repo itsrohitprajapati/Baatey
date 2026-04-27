@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>19614624062-ovb6bi5jqbqg6bk4gar7ud2a5pm84j9i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.19614624062-ovb6bi5jqbqg6bk4gar7ud2a5pm84j9i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJNN4L5shnBrYO9H4gFENFLNM7Qo8Y9EI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>19614624062</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.baatien</string>
+	<key>PROJECT_ID</key>
+	<string>baatien-c1601</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baatien-c1601.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:19614624062:ios:db54ec538423ce39e2e46f</string>
+</dict>
+</plist>

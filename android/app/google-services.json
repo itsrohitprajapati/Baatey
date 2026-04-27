@@ -1,0 +1,54 @@
+{
+    "project_info": {
+      "project_number": "19614624062",
+      "project_id": "baatien-c1601",
+      "storage_bucket": "baatien-c1601.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:19614624062:android:1158e74f98acc0bbe2e46f",
+          "android_client_info": {
+            "package_name": "com.example.baatien"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "19614624062-mg63e62m4bfgu50ulj1tn96mns08k4jj.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.baatien",
+              "certificate_hash": "8da2febd9014d99e9d2fb16e4daf4fea772bbfa6"
+            }
+          },
+          {
+            "client_id": "19614624062-4dk14qvmeq67lkehk5adtoo3vnisjvij.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyD50sz-e_Ett_Hvy6KdrzVAMj6zxptRNII"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "19614624062-4dk14qvmeq67lkehk5adtoo3vnisjvij.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "19614624062-ovb6bi5jqbqg6bk4gar7ud2a5pm84j9i.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.example.baatien"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
