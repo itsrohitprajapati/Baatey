@@ -1,16 +1,10 @@
-# baatien
+# baatey
 
-A new Flutter project.
+Baatey is a ChaKng Applica6on Designed and Developed using Flutter Framework, Firebase for the backend
+including CRUD Operations and REST APIs, multiple Flutter Packages for diﬀerent features.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Features:
+Authentication, Push Notification, Add New User Available on the App, search your added chats, Live Online
+Status and Last Seen, Send and Receive Messages, Send Scribbles using Whiteboard, Update Sent Message,
+Delete Sent Message, Copy Message, Message Sent and Seen Time, Send, Receive, and Save Images to
+Gallery, Send Image Direct Through Device Camera, Update Profile Picture, Name, and About
